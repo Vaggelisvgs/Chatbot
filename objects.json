@@ -1,0 +1,84 @@
+{"objects": [
+        {"subject": "empty",
+         "user_text": [],
+         "bot_text": ["Sorry,i can't understand you", "Please give me more info", "Not sure I understand", "How can i help you?"],
+         "context": [""]
+        },
+        {"subject": "welcome",
+         "user_text": ["Hello there","Hi there","Hey", "Hello", "Good day","Hi", "How are you", "Is anyone there?" , "What's up"],
+         "bot_text": ["Hello", "Good to see you again", "Hi there, how can I help?","Hey"],
+         "context": [""]
+        },
+        {"subject": "bye",
+         "user_text": ["Bye","See you soon", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+         "bot_text": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+         "context": [""]
+        },
+        {"subject": "thanks",
+         "user_text": ["Thanks", "Thank you", "That's helpful","Awesome" ,"Awesome, thanks", "Thanks for helping me"],
+         "bot_text": ["Happy to help!", "Any time!", "My pleasure" , "Your welcome"],
+         "context": [""]
+        },
+
+        {"subject": "options",
+         "user_text": ["Help","Info","Information","How you could help me?", "What you can do?","What are you doing?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+         "bot_text": ["I can inform you about : symptoms of Covid-19, vaccination for Covid-19, vaccines about Covid-19, Self-test for Covid-19, Rapid-test for Covid-19, PCR test for Covid-19, Freedom pass, Red areas in Greece, Number for EODY"],
+         "context": [""]
+        },
+        {"subject": "symptoms of Covid-19",
+         "user_text": ["Often symptoms of Covid-19","Virus","Info for virus", "Often symptoms", "Regularly symptoms of Covid-19" ,"Regularly symptoms","Symptoms","Fever and chills", "Shortness of breath", "Difficulty in breathing", "I have muscle aches", "I have body aches", "I lost my taste","I can't taste","I loss my smell","I can't smell" , "My throat is sore", "Sore throat"],
+         "bot_text": ["Covid-19 have a variety of symptoms like : fever, cough, shortness of breath or difficulty breathing, Fatigue, Muscle or body aches, headache, loss of taste or smell, sore throat, vomiting and nausea.","If you thing that you have a Covid-19 symptom, please stay home and call a hospital","Calm down and call your doctor"],
+         "context": [""]
+        },
+        {"subject": "vaccination for Covid-19",
+         "user_text": ["Vaccination","Vaccinations","Why i should vaccinate?","It's safe to vaccinate?","I don't want to vaccinated","Info about vaccination", "Information about vaccination"],
+         "bot_text": ["With the vaccine you protect yourself and the society","The vaccine will make you strong against the virus  ","Vaccination will help you to keep yourself strong and healthy, you can vaccinated in the nearest vaccination center"],
+         "context": [""]
+        },
+        {"subject": "vaccines about Covid-19",
+         "user_text": ["Names of vaccines for covid 19","Vaccines about covid","Covid-19 vaccines","Vaccines info","Virus vaccines","Secure from covid-19","Against covid" ],
+         "bot_text": ["The vaccines set the virus against us and for that purpose we have the following vaccines : Pfizer, Moderna and AstraZeneca"],
+         "context": [""]
+        },
+        {"subject": "Self-test for Covid-19",
+         "user_text": ["Test for covid","Price for self-test","Info about self-test","Self-test","How to do self-test?","Covid and self-test"],
+         "bot_text": ["Self-test is an easy test to do in your home and free, all you have to do is to take the cotton swab in your nose and then put the cotton swab in the liquid of the package  "],
+         "context": [""]
+        },
+        {"subject": "Rapid-test for Covid-19",
+         "user_text": ["Test for covid","Info about rapid-test","Price for self-test","Rapid-test","How to do rapid-test?","Covid and rapid-test"],
+         "bot_text": ["Rapid test is an easy test to do in any diagnostic center, in the price of 20 euros, after you will go you will receive an email with the results  "],
+         "context": [""]
+        },
+        {"subject": "PCR test for Covid-19",
+         "user_text": ["Test for covid","Info about pcr test","Price for pcr test","pcr test","How to do pcr test?","Covid and pcr test"],
+         "bot_text": [" Pcr test it a test what you can do in a hospital, its costs 50 euros but the result it's 100% true "],
+         "context": [""]
+        },
+        {"subject": "Freedom pass",
+         "user_text": ["What is freedom pass?","Info for freedom pass","Where i can find my freedom pass?","Freedom pass","Which have freedom pass?"],
+         "bot_text": ["Freedom pass is a program of government that gives 150 euro to every vaccinated human of age 18-25, for more info you can visit the website https://emvolio.gov.gr/freedompass  "],
+         "context": [""]
+        },
+        {"subject": "Red areas in Greece",
+         "user_text": ["Where i must not go?","Red areas from covid", "Red areas in Greece", "Areas to avoid","What is red area"],
+         "bot_text": ["Red areas in Greece that is good to avoid are Crete, Santorini, Paros and Mykonos","Red areas is where the possibility to get the virus of Covid is high"],
+         "context": [""]
+        },
+        {"subject": "Number for EODY",
+         "user_text": ["EODY","Phone number for EODY","Info for EODY","What is EODY","find EODY phone"],
+         "bot_text": ["EODY is the National Organization of Public Health ","you can contact with EODY from the website https://eody.gov.gr/eody/","for details call to EODY from the phone : 210 5212000 "],
+         "context": [""]
+        },
+        {"subject": "Private sector",
+         "user_text": ["Info about private sector","Private sector","Covid and private sector","Help in private sector info","Private sector and self tests"],
+         "bot_text": ["Self tests are obligatory","The assistants of private sectors must do 2 per week","The assistants can provided self tests, one from the local pharmacy and one from the employer per week","Any assistant of private sector can take the self tests with their AMKA number","You upload your result of self tests for private sector assistant to gov.gr"],
+         "context": [""]
+        },
+        {"subject": "Public service",
+         "user_text": ["Info about public service","Public service","Covid and public service","Help in public service info","Public service and self tests"],
+         "bot_text": ["Self tests are obligatory","The assistants of public service must do 1 per week","The assistants can provided self test, one from the local pharmacy","Any assistnat of public service can take the self test with their AMKA number","You upload your result of self test for public service assistant to gov.gr"],
+         "context": [""]
+        }
+   ]
+}
